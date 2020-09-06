@@ -1,0 +1,16 @@
+display: flex;
+    pega o conteúdo do container
+
+flex-direction: row/row-reverse/column/column-reverse
+
+flex-wrap: nowrap/wrap/wrap-reverse
+
+// atalho
+flex-flow: row nowrap/row wrap/column nowrap
+
+// alinhar ao centro
+justify-content: center;
+align-items: center;
+
+flex: 1 1 110px;
+flex: flex-grow flex-shrink flex-basis;
